@@ -1,0 +1,2 @@
+# SmartSauceDispencer
+AI画像認識で料理を判別するスマート醤油さし
